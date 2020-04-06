@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DMAC</string>
+    <string name="open">DMAC</string>
+    <string name="close">DMAC</string>
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="signin_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="signup_redirect">Don\'t have an account? Register here!</string>
+    <string name="swipe">Swipe Down To Refresh </string>
+    <string name="scan_your_first">Scan your first Barcode or QR Code to see the information here.</string>
+    <string name="scan_no">Scan No #</string>
+    <string name="number">1</string>
+    <string name="sample_code">123123123123221</string>
+    <string name="date_example">10 Nov 2017 12.12 AM</string>
+    <string name="share">Share</string>
+    <string name="message">text</string>
+    <string name="ad_unit_id">ca-app-pub-2932652588490084/2711610908</string>
+    <string name="dialog_title">Scan Code Result</string>
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_title">Exit</string>
+    <string name="ok_title">Ok</string>
+    <string name="camera_permission_granted">Camera Permission Granted.</string>
+    <string name="sorry_for_not_permission">Sorry , We are not able to scan Barcode without your permission.</string>
+    <string name="expiry_date">Expiry Date</string>
+</resources>

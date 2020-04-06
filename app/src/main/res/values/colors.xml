@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="blue">#33E3FF</color>
+    <color name="fillColor">#f7a108</color>
+    <color name="actionbar_background">#105774</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_grey_300">#fffffa</color>
+    <color name="gray">#5b5b5b</color>
+    <color name="Black">#000000</color>
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="black">#000</color>
+    <color name="card_right_blue">#1ABC9C</color>
+    <color name="card_right_purple">#9B59B6</color>
+</resources>
+
+
